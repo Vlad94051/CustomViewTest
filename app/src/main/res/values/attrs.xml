@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RevertTextView">
+        <attr name="revert" format="boolean"/>
+        <attr name="headUp" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="CanvasViewTest">
+        <attr name="circleRadiusAttr" format="float"/>
+    </declare-styleable>
+</resources>
